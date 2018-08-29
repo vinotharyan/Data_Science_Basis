@@ -5,3 +5,4 @@
 ###    numpy
 ###    pandas
 ###    Data visualization using pyhton
+###    SQL BASIC Commands and syntax
